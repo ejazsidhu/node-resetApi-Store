@@ -1,0 +1,21 @@
+{
+  "name": "node-store",
+  "version": "1.0.0",
+  "description": "node restAPI store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "nodeSotre"
+  ],
+  "author": "ejaz sidhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
