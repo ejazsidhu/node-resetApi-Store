@@ -3,3 +3,4 @@
 3- install "npm install --save-dev nodemon" this is handling development changes and restarting server automaticaly.
 4- install "npm install --save morgan" for logging error of app or api call related info in console
 5- install "npm install --save body-parser" helps to pars ulr and body but does not support html
+6- install "npm install --save mongoose" mongoose for handdling crud operation for mongodb
